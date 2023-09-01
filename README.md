@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mark-jay-alvarico-b36814263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mark-jay-alvarico-b36814263" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/alvarics420/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alvarics420/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/thatguymjayyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thatguymjayyy/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/38YnhQJpc8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/38YnhQJpc8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mark-jay-alvarico-b36814263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mark-jay-alvarico-b36814263" height="30" width="40" /></a>
+<a href="https://fb.com/alvarics420/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alvarics420/" height="30" width="40" /></a>
+<a href="https://instagram.com/thatguymjayyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thatguymjayyy/" height="30" width="40" /></a>
+<a href="https://discord.gg/38YnhQJpc8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/38YnhQJpc8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
