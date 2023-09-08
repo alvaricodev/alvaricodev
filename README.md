@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Javascript, Java, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://alvarico-portfolio.vercel.app/](https://alvarico-portfolio.vercel.app/)
+- 👨‍💻 My portfolio [https://alvarico-portfolio.vercel.app/](https://alvarico-portfolio.vercel.app/)
 
 - 💬 Ask me about **Discord Bot's**
 
